@@ -1,8 +1,8 @@
-# Smart-Escrow
-A solidity smart contract for Escrow management
+## Smart-Escrow
+# A solidity smart contract for Escrow management
 
 
-Contract Explanation:
+## Contract Explanation:
 
 Initial Setup: The contract constructor initializes the contract with addresses of the buyer, seller, and an arbiter (who can be a neutral third party to resolve disputes).
 
@@ -26,6 +26,7 @@ Once a dispute is initiated, arbiters have a limited time to cast their vote.
 Event Logging: Events are logged for significant actions like deposits, approvals, and refunds, which aid in transparency and tracking.
 
 
+#
 
 ## How to Use:
 
